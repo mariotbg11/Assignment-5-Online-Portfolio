@@ -18,7 +18,9 @@ function Skills() {
       </h1>
       <div className="divider"></div>
       <div className="">
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <p className="text-white">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        </p>
         <div className="flex flex-wrap lg:w-1/2 sm:mx-auto sm:mb-2 -mx-2 p-4">
           <div className="p-2 sm:w-1/2 w-full">
             <div className="flex p-4 h-full items-center gap-3">
