@@ -1,11 +1,3 @@
-import profile from "../assets/mario.png";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faGithub,
-  faLinkedin,
-  faXTwitter,
-} from "@fortawesome/free-brands-svg-icons";
-
 function Experience() {
   return (
     <div className="py-10 px-3">
