@@ -6,6 +6,7 @@ import AwardCertification from "./pages/AwardCertification";
 import Experience from "./pages/Experience";
 import Interest from "./pages/Interest";
 import Skills from "./pages/Skills";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       {/* <Interest /> */}
       {/* <AwardCertification /> */}
       <Project />
+      <Footer />
     </>
   );
 }
