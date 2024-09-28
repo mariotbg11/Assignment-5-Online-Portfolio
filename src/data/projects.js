@@ -1,0 +1,58 @@
+export default [
+  {
+    title: "Ecofume Landing Page",
+    imgURL: "/images/ecofume-min.jpg",
+    stack: ["Webflow", "Figma"],
+    link: "https://ecofume.webflow.io/",
+    alternate: "Ecofume landing page website portfolio image cover",
+  },
+  {
+    title: "Shopping Cart",
+    imgURL: "/images/shopping-cart-min.jpg",
+    stack: ["React.js", "TailwindCSS", "DaisyUI"],
+    link: "https://endearing-monstera-179b75.netlify.app/",
+    alternate: "React.js Shopping Cart portoflio image cover",
+  },
+  {
+    title: "Wedding Invitation",
+    imgURL: "/images/wedding-invitatiton-min.jpg",
+    stack: ["HTML", "Bootstrap", "Javascript"],
+    link: "https://lively-madeleine-446fa8.netlify.app/",
+    alternate: "Wedding Invitation website portoflio image cover",
+  },
+  {
+    title: "Notes App",
+    imgURL: "/images/notes-app-min.jpg",
+    stack: ["React.js", "TailwindCSS", "Vite"],
+    link: "https://helpful-bienenstitch-3bce20.netlify.app/",
+    alternate: "Notes App portoflio image cover",
+  },
+  {
+    title: "Bookshelf App",
+    imgURL: "/images/bookshelf-app-min.jpg",
+    stack: ["HTML", "CSS", "Javascript"],
+    link: "https://zesty-halva-b21bde.netlify.app/",
+    alternate: "Bookshelf App portoflio image cover",
+  },
+  {
+    title: "Company Profile",
+    imgURL: "/images/company-profile-min.jpg",
+    stack: ["HTML", "TailwindCSS"],
+    link: "https://lucky-capybara-c800ca.netlify.app/",
+    alternate: "Company Profile landing page portoflio image cover",
+  },
+  {
+    title: "Coffee & Tea Store",
+    imgURL: "/images/coffee&tea-min.jpg",
+    stack: ["HTML", "CSS", "Javascript"],
+    link: "https://cosmic-puppy-c2d02b.netlify.app/",
+    alternate: "Coffee & Tea Store website portoflio image cover",
+  },
+  {
+    title: "Portfolio Landing Page",
+    imgURL: "/images/portfolio-landingpage-min.jpg",
+    stack: ["HTML", "CSS", "Javascript"],
+    link: "https://leafy-profiterole-2d3ebd.netlify.app/",
+    alternate: "Simple Portfolio landing page image cover",
+  },
+];

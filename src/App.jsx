@@ -1,5 +1,6 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Project from "./pages/Project";
 import AboutMe from "./pages/AboutMe";
 import AwardCertification from "./pages/AwardCertification";
 import Experience from "./pages/Experience";
@@ -15,7 +16,8 @@ function App() {
       {/* <Experience /> */}
       {/* <Skills /> */}
       {/* <Interest /> */}
-      <AwardCertification />
+      {/* <AwardCertification /> */}
+      <Project />
     </>
   );
 }
