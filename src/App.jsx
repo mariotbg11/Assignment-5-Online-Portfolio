@@ -1,6 +1,7 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import AboutMe from "./pages/AboutMe";
+import AwardCertification from "./pages/AwardCertification";
 import Experience from "./pages/Experience";
 import Interest from "./pages/Interest";
 import Skills from "./pages/Skills";
@@ -13,7 +14,8 @@ function App() {
       {/* <AboutMe /> */}
       {/* <Experience /> */}
       {/* <Skills /> */}
-      <Interest />
+      {/* <Interest /> */}
+      <AwardCertification />
     </>
   );
 }
