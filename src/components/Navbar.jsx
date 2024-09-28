@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <nav className="navbar font-federoka lg:px-20">
+    <nav className="navbar">
       <div className="flex-1">
         <a className="btn btn-ghost text-xl">daisyUI</a>
       </div>

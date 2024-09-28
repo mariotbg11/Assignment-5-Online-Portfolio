@@ -1,8 +1,14 @@
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+import AboutMe from "./pages/AboutMe";
+
 function App() {
   return (
-    <h1 className="text-3xl font-normal underline font-federoka">
-      Hello world!
-    </h1>
+    <>
+      <Navbar />
+      {/* <Hero /> */}
+      <AboutMe />
+    </>
   );
 }
 
