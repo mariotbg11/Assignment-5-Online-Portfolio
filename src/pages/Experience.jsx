@@ -7,7 +7,7 @@ function Experience() {
       <div className="divider"></div>
       <div className="">
         <ul className=" w-full">
-          <li className="py-4">
+          <li>
             <div className="flex justify-between">
               <span className="text-white font-semibold text-xl">
                 Lorem ipsum
